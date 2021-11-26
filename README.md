@@ -52,6 +52,9 @@ corriente en paralelo
 
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 
+![41-47](https://user-images.githubusercontent.com/93951775/143589736-61c85a10-3990-421e-b616-992476dd749f.JPG)
+
+
 **15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:**
 ![eje14_1](https://user-images.githubusercontent.com/93224166/143511627-6e5cba1d-015f-4ca5-88b6-8d9f5bb65aea.jpg)
 
