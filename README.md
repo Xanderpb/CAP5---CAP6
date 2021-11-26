@@ -52,6 +52,28 @@ corriente en paralelo
 
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 
+
+![Captura](https://user-images.githubusercontent.com/93928146/143595292-019ca5bb-c6d7-41f7-9cbb-d97b4fa9de8e.PNG)
+![Captura1](https://user-images.githubusercontent.com/93928146/143595302-d828732b-70d0-4129-972d-df37de3864d9.PNG)
+![Captura2](https://user-images.githubusercontent.com/93928146/143595313-e6446eba-e150-420a-944c-c7e271abd17f.PNG)
+![Captura3](https://user-images.githubusercontent.com/93928146/143595321-58eb7dff-3be6-4e21-8bfd-e6b0b09b8134.PNG)
+
+![Captura4](https://user-images.githubusercontent.com/93928146/143595328-6314ed04-783d-4258-9f4b-1d23ecbc2f71.PNG)
+![9](https://user-images.githubusercontent.com/93928146/143595345-1d3d0251-5241-4f82-b66b-7647ce840755.PNG)
+![10](https://user-images.githubusercontent.com/93928146/143595347-88d722ff-77f5-436f-a9af-05e00f533f12.PNG)
+![5](https://user-images.githubusercontent.com/93928146/143595348-bba09e19-c9b8-4e05-91af-c5692e1c5bbd.PNG)
+![6](https://user-images.githubusercontent.com/93928146/143595349-d916749e-b137-4ba9-b1a5-088b001c9baf.PNG)
+![7](https://user-images.githubusercontent.com/93928146/143595351-09c3d8b1-17b8-4b71-976f-40c9ec9f4794.PNG)
+![8](https://user-images.githubusercontent.com/93928146/143595354-37f4bd2f-c9f3-4cfe-af55-6561cc498377.PNG)
+![12](https://user-images.githubusercontent.com/93928146/143595368-ed136b11-da59-49de-98c2-2019b450024d.PNG)
+![13](https://user-images.githubusercontent.com/93928146/143595371-4ec44113-6e45-47a8-a297-afa63574af91.PNG)
+![11](https://user-images.githubusercontent.com/93928146/143595372-8a4a2eba-13d6-4c6d-b945-c3c305a567e8.PNG)
+
+
+
+
+
+
 **41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más
 bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.**
 
