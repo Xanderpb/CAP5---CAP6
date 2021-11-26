@@ -35,7 +35,9 @@ corriente en paralelo
 ![map6 8](https://user-images.githubusercontent.com/93224166/143465032-cf8216c5-3934-46a8-9e4d-f2b88955a19d.png)
 ![map6 9](https://user-images.githubusercontent.com/93224166/143465025-60d3c20b-9713-4ef3-adc6-6d152da6169f.png)
 ![map6 10](https://user-images.githubusercontent.com/93224166/143465016-7da1b028-aca7-4e25-83e6-a407856aac03.png)
-
+![5-8](https://user-images.githubusercontent.com/93951775/143533905-4674abfe-36bd-4d17-979f-e834f2467695.jpeg)
+![5-9](https://user-images.githubusercontent.com/93951775/143533914-cfab12a9-e845-4b12-a8e6-0bc4add5e0aa.jpeg)
+![5-10](https://user-images.githubusercontent.com/93951775/143533920-3f7724a7-f0d8-4fda-a1d4-f563078568e1.jpeg)
 
 
 
