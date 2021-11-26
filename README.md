@@ -58,23 +58,20 @@ bajo, y todos los demás resistores son múltiplos de dicho valor como se indica
 ![41](https://user-images.githubusercontent.com/93951775/143591609-9fdf453d-ff02-442a-a02e-95fcc3eeda7d.JPG)
   
 43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
-      
+  
+  ![43](https://user-images.githubusercontent.com/93951775/143591629-93701284-6e3f-49a9-bacb-df3a8045f6ca.JPG)
 
-*45. Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de
-10 V hasta un máximo de 100 V dentro del _1% con una fuente de 1 a 120 V. El voltaje máximo debe
-ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el
-ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.
 47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.
+
+![47](https://user-images.githubusercontent.com/93951775/143591773-5aeeef1e-c07f-4d69-ad56-3da671236ca9.JPG)
  
-
-
-
-
 49. Encuentre RT en la figura 5-89.
 
- 
+![49](https://user-images.githubusercontent.com/93951775/143591783-ec9db5ba-f970-4665-9a2f-d704a734b326.JPG)
 
 51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.
+
+![51](https://user-images.githubusercontent.com/93951775/143591794-204a6cd8-d518-4f31-af84-a0e2c3112583.JPG)
    
 53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
  
