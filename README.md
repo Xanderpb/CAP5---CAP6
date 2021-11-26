@@ -130,6 +130,8 @@ interruptor?**
 * IT=1300 mA
 
 **11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4.**
+
+![11](https://user-images.githubusercontent.com/93951775/143595098-ae6f483d-dd94-40fe-92bf-c9e15c8d99e7.JPG)
  
 * Conversiones corrientes
 * 5.03 mA=0.00503                                         * R=V/I=  0.047/0.00214=21.26Ω
