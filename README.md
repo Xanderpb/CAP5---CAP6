@@ -74,16 +74,12 @@ bajo, y todos los demás resistores son múltiplos de dicho valor como se indica
    
 **53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.**
 
-
-
-
-
-
-
-
+![53](https://user-images.githubusercontent.com/93951775/143594474-c40f9f8a-7807-4aad-9a3e-a28d2c27188a.JPG)
 
 **55. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué
 componentes fallaron.**
+
+![55](https://user-images.githubusercontent.com/93951775/143594480-6f6357fa-9c0e-4511-9d9b-06f78778712a.JPG)
  
 * En el circuito A no pasa corriente entonces la resistencia 4 está mal
 * En el circuito B no marca entre a resistencia 4 y 5 para descartar que sean las 2 toca media la 4 y ver si marca o no 
@@ -91,15 +87,21 @@ componentes fallaron.**
 **57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso
 que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles
 problemas.**
+
+![57](https://user-images.githubusercontent.com/93951775/143594490-987c0108-d652-4239-a264-033f59243106.JPG)
   
 **59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kÆ entre las puntas 1 y 2.
 Asimismo, 13.6 kÆ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso?
 De ser así, identifíquelo**
 
 **1.Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.**
+
+![1](https://user-images.githubusercontent.com/93951775/143594505-fd12fe22-667e-4e14-bfd5-6524dfdebfb1.JPG)
   
 **3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara
 mostrada en la figura 6-66.**
+
+![3](https://user-images.githubusercontent.com/93951775/143594517-b085a43f-0146-4505-81f4-715167bc7cfa.JPG)
  
 * Las resistencias en paralelo son:
 * R1=R2=R9=R10
@@ -107,10 +109,14 @@ mostrada en la figura 6-66.**
 
 **5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?**
 
+![5](https://user-images.githubusercontent.com/93951775/143594526-dc0a2cbe-237e-4e52-951c-a6a656aa5746.JPG)
+
 * El voltaje de cada rama es igual al voltaje de la fuente entonces seria 100V mismo
 
 **7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del
 interruptor?**
+
+![7](https://user-images.githubusercontent.com/93951775/143594542-e6c78ebe-9c68-4477-9d6c-2bdfd8f29c4e.JPG)
  
 * A=R4 =14.98V
 * B=R3 =14.96V
