@@ -29,15 +29,15 @@ corriente en paralelo
 * Localizar fallas en circuitos en serie y paralelo
 ## 2. Marco teorico
 
+![5-8](https://user-images.githubusercontent.com/93951775/143533905-4674abfe-36bd-4d17-979f-e834f2467695.jpeg)
+![5-9](https://user-images.githubusercontent.com/93951775/143533914-cfab12a9-e845-4b12-a8e6-0bc4add5e0aa.jpeg)
+![5-10](https://user-images.githubusercontent.com/93951775/143533920-3f7724a7-f0d8-4fda-a1d4-f563078568e1.jpeg)
 ![map6 4](https://user-images.githubusercontent.com/93224166/143465396-6d1bae88-e1c0-4876-aae3-653a21b97d51.png)
 ![MAP6 6](https://user-images.githubusercontent.com/93224166/143465029-a234088e-006d-499f-8d67-6629c1e592da.png)
 ![MAP6 7](https://user-images.githubusercontent.com/93224166/143465027-8aa1142a-ecc3-42eb-aab9-66fb6036ba50.png)
 ![map6 8](https://user-images.githubusercontent.com/93224166/143465032-cf8216c5-3934-46a8-9e4d-f2b88955a19d.png)
 ![map6 9](https://user-images.githubusercontent.com/93224166/143465025-60d3c20b-9713-4ef3-adc6-6d152da6169f.png)
 ![map6 10](https://user-images.githubusercontent.com/93224166/143465016-7da1b028-aca7-4e25-83e6-a407856aac03.png)
-![5-8](https://user-images.githubusercontent.com/93951775/143533905-4674abfe-36bd-4d17-979f-e834f2467695.jpeg)
-![5-9](https://user-images.githubusercontent.com/93951775/143533914-cfab12a9-e845-4b12-a8e6-0bc4add5e0aa.jpeg)
-![5-10](https://user-images.githubusercontent.com/93951775/143533920-3f7724a7-f0d8-4fda-a1d4-f563078568e1.jpeg)
 
 
 
@@ -52,92 +52,92 @@ corriente en paralelo
 
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 
-41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más
-bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.
+**41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más
+bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.**
 
 ![41](https://user-images.githubusercontent.com/93951775/143591609-9fdf453d-ff02-442a-a02e-95fcc3eeda7d.JPG)
   
-43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
+**43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?**
   
   ![43](https://user-images.githubusercontent.com/93951775/143591629-93701284-6e3f-49a9-bacb-df3a8045f6ca.JPG)
 
-47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.
-
+**47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.
+**
 ![47](https://user-images.githubusercontent.com/93951775/143591773-5aeeef1e-c07f-4d69-ad56-3da671236ca9.JPG)
  
-49. Encuentre RT en la figura 5-89.
+**49. Encuentre RT en la figura 5-89.**
 
 ![49](https://user-images.githubusercontent.com/93951775/143591783-ec9db5ba-f970-4665-9a2f-d704a734b326.JPG)
 
-51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.
+**51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.**
 
 ![51](https://user-images.githubusercontent.com/93951775/143591794-204a6cd8-d518-4f31-af84-a0e2c3112583.JPG)
    
-53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
+**53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.**
+
+
+
+
+
+
+
+
+
+**55. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué
+componentes fallaron.**
  
+* En el circuito A no pasa corriente entonces la resistencia 4 está mal
+* En el circuito B no marca entre a resistencia 4 y 5 para descartar que sean las 2 toca media la 4 y ver si marca o no 
 
-
-
-
-
-
-
-
-
-
-
-
-
-55. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué
-componentes fallaron.
- 
-En el circuito A no pasa corriente entonces la resistencia 4 está mal
-En el circuito B no marca entre a resistencia 4 y 5 para descartar que sean las 2 toca media la 4 y ver si marca o no 
-57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso
+**57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso
 que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles
-problemas.
+problemas.**
   
-59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kÆ entre las puntas 1 y 2.
+**59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kÆ entre las puntas 1 y 2.
 Asimismo, 13.6 kÆ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso?
-De ser así, identifíquelo
-1.Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.
+De ser así, identifíquelo**
+
+**1.Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.**
   
-3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara
-mostrada en la figura 6-66.
+**3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara
+mostrada en la figura 6-66.**
  
-Las resistencias en paralelo son:
-R1=R2=R9=R10
-R3=R4=R6=R11
-5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
+* Las resistencias en paralelo son:
+* R1=R2=R9=R10
+* R3=R4=R6=R11
+
+**5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
 
 
 
 
+**
 
+* El voltaje de cada rama es igual al voltaje de la fuente entonces seria 100V mismo
 
-El voltaje de cada rama es igual al voltaje de la fuente entonces seria 100V mismo
-
-7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del
-interruptor?
+**7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del
+interruptor?**
  
-A=R4 =14.98V
-B=R3 =14.96V
-C=R2 =14.99V
-Ósea en total 15V en cada resistencia 
-9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,
-300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
-IT= I1+I2+I3
-IT=250+300+800
-IT=1300 mA
-11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4.
+* A=R4 =14.98V
+* B=R3 =14.96V
+* C=R2 =14.99V
+* Ósea en total 15V en cada resistencia 
+
+**9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,
+300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?**
+* IT= I1+I2+I3
+* IT=250+300+800
+* IT=1300 mA
+
+**11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4.**
  
-Conversiones corrientes
-5.03 mA=0.00503                                          R=V/I=  0.047/0.00214=21.26Ω
-I1=1mA=0.001 A                                        R=V/I=  0.047/0.000470=100Ω
-I2=2.14 mA=0.00214 A                               R=V/I=  0.047/0.00142=33.09 Ω
-I3=0.470 mA=0.000470 A
-V=I×R=0.001*47 = 0.047 V
-I4=5.03-1-2.14-0.470=1.42 mA=0.00142 A
+* Conversiones corrientes
+* 5.03 mA=0.00503                                         * R=V/I=  0.047/0.00214=21.26Ω
+* I1=1mA=0.001 A                                        * R=V/I=  0.047/0.000470=100Ω
+* I2=2.14 mA=0.00214 A                               * R=V/I=  0.047/0.00142=33.09 Ω
+* I3=0.470 mA=0.000470 A
+* V=I×R=0.001*47 = 0.047 V
+* I4=5.03-1-2.14-0.470=1.42 mA=0.00142 A
  
 
 
