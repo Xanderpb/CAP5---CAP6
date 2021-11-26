@@ -54,6 +54,8 @@ corriente en paralelo
 
 41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más
 bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.
+
+![41](https://user-images.githubusercontent.com/93951775/143591609-9fdf453d-ff02-442a-a02e-95fcc3eeda7d.JPG)
   
 43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
       
