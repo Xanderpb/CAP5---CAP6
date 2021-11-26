@@ -52,7 +52,94 @@ corriente en paralelo
 
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 
+41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más
+bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.
+  
+43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
+      
 
+*45. Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de
+10 V hasta un máximo de 100 V dentro del _1% con una fuente de 1 a 120 V. El voltaje máximo debe
+ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el
+ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.
+47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.
+ 
+
+
+
+
+49. Encuentre RT en la figura 5-89.
+
+ 
+
+51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.
+   
+53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+55. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué
+componentes fallaron.
+ 
+En el circuito A no pasa corriente entonces la resistencia 4 está mal
+En el circuito B no marca entre a resistencia 4 y 5 para descartar que sean las 2 toca media la 4 y ver si marca o no 
+57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso
+que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles
+problemas.
+  
+59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kÆ entre las puntas 1 y 2.
+Asimismo, 13.6 kÆ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso?
+De ser así, identifíquelo
+1.Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.
+  
+3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara
+mostrada en la figura 6-66.
+ 
+Las resistencias en paralelo son:
+R1=R2=R9=R10
+R3=R4=R6=R11
+5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
+
+
+
+
+
+
+El voltaje de cada rama es igual al voltaje de la fuente entonces seria 100V mismo
+
+7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del
+interruptor?
+ 
+A=R4 =14.98V
+B=R3 =14.96V
+C=R2 =14.99V
+Ósea en total 15V en cada resistencia 
+9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,
+300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
+IT= I1+I2+I3
+IT=250+300+800
+IT=1300 mA
+11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4.
+ 
+Conversiones corrientes
+5.03 mA=0.00503                                          R=V/I=  0.047/0.00214=21.26Ω
+I1=1mA=0.001 A                                        R=V/I=  0.047/0.000470=100Ω
+I2=2.14 mA=0.00214 A                               R=V/I=  0.047/0.00142=33.09 Ω
+I3=0.470 mA=0.000470 A
+V=I×R=0.001*47 = 0.047 V
+I4=5.03-1-2.14-0.470=1.42 mA=0.00142 A
+ 
 
 
 **15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:**
