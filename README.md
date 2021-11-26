@@ -61,8 +61,7 @@ bajo, y todos los demás resistores son múltiplos de dicho valor como se indica
   
   ![43](https://user-images.githubusercontent.com/93951775/143591629-93701284-6e3f-49a9-bacb-df3a8045f6ca.JPG)
 
-**47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.
-**
+**47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.**
 ![47](https://user-images.githubusercontent.com/93951775/143591773-5aeeef1e-c07f-4d69-ad56-3da671236ca9.JPG)
  
 **49. Encuentre RT en la figura 5-89.**
@@ -106,12 +105,7 @@ mostrada en la figura 6-66.**
 * R1=R2=R9=R10
 * R3=R4=R6=R11
 
-**5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
-
-
-
-
-**
+**5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?**
 
 * El voltaje de cada rama es igual al voltaje de la fuente entonces seria 100V mismo
 
