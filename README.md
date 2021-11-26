@@ -29,6 +29,11 @@ corriente en paralelo
 * Localizar fallas en circuitos en serie y paralelo
 ## 2. Marco teorico
 
+
+![mapa cap 5 cap 6](https://user-images.githubusercontent.com/93928146/143596225-ab9b8b43-135b-43dc-bdc6-af0a8a8acaa1.PNG)
+
+
+
 ![5-8](https://user-images.githubusercontent.com/93951775/143533905-4674abfe-36bd-4d17-979f-e834f2467695.jpeg)
 ![5-9](https://user-images.githubusercontent.com/93951775/143533914-cfab12a9-e845-4b12-a8e6-0bc4add5e0aa.jpeg)
 ![5-10](https://user-images.githubusercontent.com/93951775/143533920-3f7724a7-f0d8-4fda-a1d4-f563078568e1.jpeg)
